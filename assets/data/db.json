@@ -1,0 +1,87 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "โรงแรมสยามเคมปินสกี้",
+      "picture": "https://pix8.agoda.net/hotelImages/178063/-1/932f4dd58298ddea8ae1f285f7632e22.jpg"
+    },
+    {
+      "id": 2,
+      "name": "โรงแรมอครา",
+      "picture": "https://ak-d.tripcdn.com/images/0220b12000amt1p0l3031_R_960_660_R5_D.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beachfront Villa",
+      "picture": "https://landmark-mekong-riverside-hotel-vientiane.hotelmix.co.th/data/Photos/OriginalPhoto/7074/707477/707477569/Landmark-Mekong-Riverside-Hotel-Vientiane-Exterior.JPEG"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "locationId": 1,
+      "userId": 1,
+      "name": "John Doe",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatar-2/512/laly_face_woman-512.png",
+      "rating": 5,
+      "comment": "เข้าไปพักและใช้บริการตอนงานแต่งงานค่ะ อาหารและขนมอร่อยมากๆค่ะ แขกในงานชมกันเยอะมากๆ พนักงานทุกคนยิ้มแย้มแจ่มใส เป็นกันเอง บริการดีทุกคนเลยค่ะ ห้องพักก็ใหญ่กว้างขวางมากๆ สะดวกสบาย สมราคาค่ะ เซลล์คุณฝน บริการดีมากๆ ใส่ใจลูกค้า แนะนำเลยค่า",
+      "photo": "https://www.brianhead.com/wp-content/uploads/sites/7/2023/08/Brian-Head-Lodge-Room-5-2000x1333.jpg",
+      "date": "2023-11-10"
+    },
+    {
+      "id": 2,
+      "locationId": 1,
+      "userId": 2,
+      "name": "Jane Smith",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatar-2/512/laly_face_woman-512.png",
+      "rating": 4,
+      "comment": "ห้องอาหารเช้า : พนักงานบริการสนใจ ใส่ใจลูกค้าดีมากโดยเฉพาะลูกค้าสูงอายุ มีการสอบถามตลอด อาหาร มีความหลากหลายให้เลือก คุณภาพอาหารดี สถานที่ มีโซนให้เลือกนั่งให้ตามความชอบ มีการประดับตกแต่งให้เป็นเหมือนสวนร่มรื่น อากาศถ่ายเทดี ห้องพัก ดีงาม สะอาด เรียบร้อย",
+      "photo": "https://santorinidave.com/wp-content/uploads/2022/12/andra-four-star-seattle-hotel.jpeg",
+      "date": "2023-11-09"
+    },
+    {
+      "id": 3,
+      "locationId": 2,
+      "userId": 3,
+      "name": "Bob Johnson",
+      "avatar": "https://cdn1.iconfinder.com/data/icons/diversity-avatars-vol-01/512/Female004-512.png",
+      "rating": 3,
+      "comment": "เพิ่งจะได้มีเวลามารีวิวถึงภายในโรงแรมนี้ มีคราบสกปรก ไม่เรียบร้อยนิดหน่อย มีลิฟต์บริการตรงลานจอดรถ เพื่อมาที่ห้องอาหาร Wah Lok เข้ามาแล้วอาจจะดูวุ่นวายหน่อยในวันหยุดยาว แต่พนักงานในร้านอาหารก็ยังคงบริการดี อาหารอร่อยขอบคุณคุณตุ๊กที่ดูแลแนะนำอาหาร ขอบคุณคุณโอ๋ที่รับเรื่องฝากให้ห้องอาหารโทรกลับมาจนได้ ไม่ทิ้งไป เพราะโทรไปหาห้องอาหารรับสายยากจนพนักงานรับสายต้องรับแทน ",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/6d/80/21/gites-du-biollay-d-en.jpg",
+      "date": "2023-11-08"
+    },
+    {
+      "id": 4,
+      "locationId": 2,
+      "userId": 4,
+      "name": "Alice Brown",
+      "avatar": "https://cdn1.iconfinder.com/data/icons/diversity-avatars-vol-01/512/Female004-512.png",
+      "rating": 4,
+      "comment": "ขออนุญาตแชร์ เหตุการณ์คือ เราเช็คเอ้าท์จากโรงแรมแล้วลืมของไว้ที่โรงแรมมานึกได้ก็รีบติดต่อหาโรงแรม โรงแรมรับเรื่องแล้วก็ประสานงานเร็วมาก และมีผู้จัดการ คุณโกโก้ไปตรวจที่ห้องพักด้วยตนเอง พร้อมกับติดต่อมาภายในเวลาเพียง 5 นาทีเท่านั้น คุณโกโก้ทำการติดต่อหาเราโดยตรงเพื่อยืนยันทรัพย์สินของเราซึ่งอยู่ครบทั้งหมด ได้แก่ สร้อยคอทองคำ แขวนพระรอดเหลี่ยมทอง , กำไลHermes ,นาฬิกาHermes ,แหวนHermes , และแหวนทองคำอีก 3 วง เป็นสิ่งที่มีค่าทางจิตใจ ขอบคุณจริงๆ โดยปกติเวลามากรุงเทพก็จะมาพักที่โรงแรมนี้ประจำซึ่งประทับใจอยู่แล้วเป็นทุนเดิมเนื่องจากที่พักสะอาดมีสระว่ายน้ำ วิวติดแม่น้ำเจ้าพระยา อาหารเช้าคือมีให้เลือกเยอะมาก และที่พักราคาไม่แพง ทำเลดี เดินทางไปท่องเที่ยวได้สะดวก แนะนำที่นี้เลย",
+      "photo": "https://www.rwlasvegas.com/wp-content/uploads/2022/05/crockfords-las-vegas-standard-deluxe-bedroom_1000x880.jpg",
+      "date": "2023-11-07"
+    },
+    {
+      "id": 5,
+      "locationId": 3,
+      "userId": 5,
+      "name": "Eva White",
+      "avatar": "https://thumbs.dreamstime.com/z/happy-girl-avatar-funny-child-profile-picture-isolated-white-background-239402901.jpg",
+      "rating": 5,
+      "comment": "มุมแรกที่เห็นโรงแรม ถือว่าสวยมากแล้วเดินเข้าโรงแรมก้าวแรกคือ พนักงานต้อนรับเลยคือ ยิ้มน้อยยิ้มใหญ่ ทำให้ผมที่ว่าโกรธแฟนอยู่กับยิ้มตามไปด้วยเลย ก็ถือว่าพนักงานตอนรับแขกมาก หรือทางโรงแรมคัดพนักงานเข้ามาอย่างเคร่งครัด สระว่ายน้ำสวยสะดวกต่อการเล่นอย่างมาก อาหารอร่อย ชอบสไตล์ร้านมาก เพลงเพราะมาก คือดีครับ แนะนำครับโรงแรมนี้ ",
+      "photo": "https://media-cdn.tripadvisor.com/media/photo-s/05/e1/ab/92/bella-villa-cabana.jpg",
+      "date": "2023-11-06"
+    },
+    {
+      "id": 6,
+      "locationId": 3,
+      "userId": 6,
+      "name": "David Black",
+      "avatar": "https://cdn1.iconfinder.com/data/icons/diversity-avatars-vol-01/512/Female004-512.png",
+      "rating": 5,
+      "comment": "ดีมากเลยค่ะ แนะนำเลย บริการดีมาก อาหารเช้าอร่อย พนักงานบริการดีมาก มีเวลคัมดริงค์กับชามาเสริ์ฟตอนเช็คอิน รวมๆๆแล้วประทับใจค่ะ โลเคชั่นก็หาง่าย ค่อนข้างเงียบสงบเหมาะแก่การพักผ่อน มากับครอบครัวกับแฟนก็ปังๆเลยค่าา",
+      "photo": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_600,q_auto,w_600//hotelier-images/e3/fd/c2880ae53ec62e2b664f308b2198681099db9d52c6c4976b327b6d1aaee7.jpeg",
+      "date": "2023-11-05"
+    }
+  ]
+}
